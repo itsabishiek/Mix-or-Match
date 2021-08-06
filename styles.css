@@ -231,4 +231,22 @@ body {
     height: 125px;
     width: 75px;
   }
+  .overlay-text {
+    font-size: 2em;
+  }
+  .cob-web {
+    height: 35px;
+    width: 35px;
+  }
+  .card-face:hover .cob-web {
+    height: 40px;
+    width: 40px;
+  }
+  .spider {
+    height: 95px;
+    width: 60px;
+  }
+  .card-value {
+    height: 40px;
+  }
 }
